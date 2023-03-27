@@ -1,0 +1,2 @@
+# WordpressPluginStarter
+basic wordpress plugin
